@@ -1,5 +1,6 @@
 <!-- _navbar.md -->
 
+<!-- 大目录一 -->
 * Getting started
 
   * [Quick start](quickstart.md)
@@ -7,6 +8,7 @@
   * [Custom navbar](custom-navbar.md)
   * [Cover page](cover.md)
 
+<!-- 大目录二 -->
 * Configuration
   * [Configuration](configuration.md)
   * [Themes](themes.md)

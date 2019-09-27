@@ -1,5 +1,8 @@
 <!-- docs/_sidebar.md -->
 
-**SidebarTest**
-* [Home](/)
-* [Guide](guide.md "the greatest guide in the world")
+<!-- 左边导航栏 -->
+
+- SidebarTest
+
+  - [Home](/)
+  - [Guide](guide.md "the greatest guide in the world")
