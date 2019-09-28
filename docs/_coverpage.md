@@ -13,7 +13,7 @@
 
 <!-- Link -->
 [GitHub](https://github.com/floatLig/DoLeetcode)
-<!-- [Get Started](#docsify) -->
+[Get Started](./README.md)
 
 <!-- background image -->
 <!-- ![](_media/bg.png) -->
