@@ -2,7 +2,12 @@
 
 <!-- 左边导航栏 -->
 
-- 基础篇
+- 数组
 
-  - [初识数据结构和算法](./_source/入门篇/初识数据结构和算法.md)
-  - [复杂度分析](./_source/入门篇/复杂度分析.md)
+  - [](./_source/)
+  - [复杂度分析](./_source/)
+
+- 链表
+
+  - [206. Reverse Linked List](./_source/206.ReverseLinkedList.md)
+  - [141. Linked List Cycle](./_source/141.LinkedListCycle.md)
